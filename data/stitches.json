@@ -1,0 +1,218 @@
+[
+    {
+        "usName": "Chain",
+        "usCode": "ch",
+        "ukName": "Chain",
+        "ukCode": "ch",
+        "image": "http://localhost:8080/images/xxxx",
+        "tutorial": "URL",
+        "description": "text",
+        "diagram": "http://localhost:8080/symbols/xxxx",
+        "patterns": {
+            "pattern1": {
+                "name": "text",
+                "thumbnail": "URL",
+                "description": "text",
+                "link": "URL"
+            },
+            "pattern2": {
+                "name": "text",
+                "thumbnail": "URL",
+                "description": "text",
+                "link": "URL"
+            }
+        }
+    },
+    {
+        "usName": "Slip Stitch",
+        "usCode": "ss",
+        "ukName": "Slip Stitch",
+        "ukCode": "ss",
+        "image": "http://localhost:8080/images/SlipStitchImage.jpeg",
+        "tutorial": "URL",
+        "description": "text",
+        "diagram": "http://localhost:8080/symbols/SlipStitchSymbol.png",
+        "patterns": {
+            "pattern1": {
+                "name": "text",
+                "thumbnail": "URL",
+                "description": "text",
+                "link": "URL"
+            },
+            "pattern2": {
+                "name": "text",
+                "thumbnail": "URL",
+                "description": "text",
+                "link": "URL"
+            }
+        }
+    },
+    {
+        "usName": "Single Crochet",
+        "usCode": "ch",
+        "ukName": "Double Crochet",
+        "ukCode": "dc",
+        "image": "http://localhost:8080/images/SingleCrochetImage.jpeg",
+        "tutorial": "URL",
+        "description": "text",
+        "diagram": "http://localhost:8080/symbols/SingleCrochetSymbol.jpeg",
+        "patterns": {
+            "pattern1": {
+                "name": "text",
+                "thumbnail": "URL",
+                "description": "text",
+                "link": "URL"
+            },
+            "pattern2": {
+                "name": "text",
+                "thumbnail": "URL",
+                "description": "text",
+                "link": "URL"
+            }
+        }
+    },
+    {
+        "usName": "Half Double Crochet",
+        "usCode": "hdc",
+        "ukName": "Half Treble Crochet",
+        "ukCode": "htr",
+        "image": "URL",
+        "tutorial": "URL",
+        "description": "text",
+        "diagram": "http://localhost:8080/symbols/HalfDoubleCrochetSymbol.png",
+        "patterns": {
+            "pattern1": {
+                "name": "text",
+                "thumbnail": "URL",
+                "description": "text",
+                "link": "URL"
+            },
+            "pattern2": {
+                "name": "text",
+                "thumbnail": "URL",
+                "description": "text",
+                "link": "URL"
+            }
+        }
+    },
+    {
+        "usName": "Double Crochet",
+        "usCode": "dc",
+        "ukName": "Treble",
+        "ukCode": "tr",
+        "image": "URL",
+        "tutorial": "URL",
+        "description": "text",
+        "diagram": "http://localhost:8080/symbols/DoubleCrochetSymbol.jpeg",
+        "patterns": {
+            "pattern1": {
+                "name": "text",
+                "thumbnail": "URL",
+                "description": "text",
+                "link": "URL"
+            },
+            "pattern2": {
+                "name": "text",
+                "thumbnail": "URL",
+                "description": "text",
+                "link": "URL"
+            }
+        }
+    },
+    {
+        "usName": "Triple/Treble",
+        "usCode": "tr",
+        "ukName": "Double Treble",
+        "ukCode": "dtr",
+        "image": "URL",
+        "tutorial": "URL",
+        "description": "text",
+        "diagram": "http://localhost:8080/symbols/TripleCrochetSymbol.jpeg",
+        "patterns": {
+            "pattern1": {
+                "name": "text",
+                "thumbnail": "URL",
+                "description": "text",
+                "link": "URL"
+            },
+            "pattern2": {
+                "name": "text",
+                "thumbnail": "URL",
+                "description": "text",
+                "link": "URL"
+            }
+        }
+    },
+    {
+        "usName": "Double Triple/Treble",
+        "usCode": "dtr",
+        "ukName": "Triple Treble",
+        "ukCode": "trtr",
+        "image": "URL",
+        "tutorial": "URL",
+        "description": "text",
+        "diagram": "http://localhost:8080/symbols/DoubleTripleSymbol.png",
+        "patterns": {
+            "pattern1": {
+                "name": "text",
+                "thumbnail": "URL",
+                "description": "text",
+                "link": "URL"
+            },
+            "pattern2": {
+                "name": "text",
+                "thumbnail": "URL",
+                "description": "text",
+                "link": "URL"
+            }
+        }
+    },
+    {
+        "usName": "Back Post Double",
+        "usCode": "bpdc",
+        "ukName": "Raised Treble Back",
+        "ukCode": "rtrb",
+        "image": "URL",
+        "tutorial": "URL",
+        "description": "text",
+        "diagram": "http://localhost:8080/symbols/BackPostDoubleSymbol.png",
+        "patterns": {
+            "pattern1": {
+                "name": "text",
+                "thumbnail": "URL",
+                "description": "text",
+                "link": "URL"
+            },
+            "pattern2": {
+                "name": "text",
+                "thumbnail": "URL",
+                "description": "text",
+                "link": "URL"
+            }
+        }
+    },
+    {
+        "usName": "Front Post Double",
+        "usCode": "fpdc",
+        "ukName": "Raised Treble Front",
+        "ukCode": "rtrf",
+        "image": "URL",
+        "tutorial": "URL",
+        "description": "text",
+        "diagram": "http://localhost:8080/symbols/FrontPostDoubleSymbol.png",
+        "patterns": {
+            "pattern1": {
+                "name": "text",
+                "thumbnail": "URL",
+                "description": "text",
+                "link": "URL"
+            },
+            "pattern2": {
+                "name": "text",
+                "thumbnail": "URL",
+                "description": "text",
+                "link": "URL"
+            }
+        }
+    }
+]
