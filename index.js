@@ -18,10 +18,19 @@ function fetchStitches() {
     return JSON.parse(stitches);
 }
 
-function fetchFavourites() {
-    const favourtieStitches = fs.readFileSync('./data/favourites.json');
-    return JSON.parse(favourtieStitches);
-}
+// patch request to update the status of the favourite attribute in the JSON file
+app.patch('/', (req, res) => {
+    console.log(req.body);
+    const stitches = fs.readFileSync('./data/stitches.json');
+    const parseStitches = JSON.parse(stitches);
+    parseStitches.forEach((stitch) => {
+        if (stitch.id === req.body.id) {
+            stitch.favourite = req.body.favourite
+        }
+    })
+    fs.writeFileSync('./data/stitches.json', JSON.stringify(parseStitches))
+    res.send(200);
+})
 
 // Returns list of all stitches
 app.get('/', (_req, res) => {
